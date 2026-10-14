@@ -29,7 +29,7 @@ AGENTS.md
 !.vscode/settings.json
 
 # Build and coverage output
-assets/raw/
+www/assets/raw/
 build/
 dist/
 htmlcov/

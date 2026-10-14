@@ -1,21 +1,6 @@
-# baravalle.com
+Operating at the intersection of web, data, and security, I specialise in building data products with clear commercial value - from price intelligence to product analytics and data governance. 
 
-Source code for [baravalle.com](https://baravalle.com), a personal professional website for Andres Baravalle.
+I combine technical leadership in engineering and product with the ability to support commercial strategies. 
 
-The site presents information about professional experience, data engineering leadership, selected talks, certifications, and external profiles.
+My practice is backed by Chartered IT Professional (CITP) and Data Science Professional (DSP) status, alongside certifications including Databricks Data Engineer Professional, CISA, and CISSP.
 
-## Technology
-
-- Static HTML
-- CSS
-- [Pico CSS](https://picocss.com/) via jsDelivr CDN
-- Local image assets
-- No build step or JavaScript framework required
-
-## Project Structure
-
-```text
-.
-├── index.html
-└── assets/
-````
